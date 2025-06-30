@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 Hey! I'm Teddy, a test engineer by profession, mentor by passion.  
-With deep roots in QA automation and education, I’ve built testing pipelines, mentored dozens into automation roles, and led initiatives at Tokopedia, JULO, and Stickearn. Currently pursuing my M.CompSci while experimenting with forecasting, DevOps, and open-source automation tooling.
+With deep roots in QA automation and education, I’ve built testing pipelines, mentored dozens into automation roles, and led initiatives at Tokopedia, JULO, and Stickearn. I just finished my M.CompSci while experimenting with forecasting, DevOps, and open-source automation tooling.
 
 ---
 
