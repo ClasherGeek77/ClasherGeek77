@@ -3,7 +3,7 @@
 **QA Automation Engineer • Mentor • Educator**  
 📍 Indonesia  
 📧 lionertdy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/teddy-lioner/) | [IEEE](https://ieeexplore.ieee.org/author/37089631442) | [GitHub](https://github.com/ClasherGeek77)
+🔗 [LinkedIn](https://www.linkedin.com/in/teddy-lioner/) | [IEEE](https://ieeexplore.ieee.org/author/37089631442) 
 
 ---
 
