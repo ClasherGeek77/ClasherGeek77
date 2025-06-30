@@ -25,8 +25,8 @@ Katalon, Appium, Selenium, everything I teach, I practice.
 | [Web-Katalon-Example](https://github.com/ClasherGeek77/Web-Katalon-Example) | Web UI automation using Katalon |
 | [Mobile-Katalon-Example-Project](https://github.com/ClasherGeek77/Mobile-Katalon-Example-Project) | Android automation via Katalon |
 | [Restful-API-Katalon-Example](https://github.com/ClasherGeek77/Restful-API-Katalon-Example) | API automation testing with Katalon |
-| [QA_API_BATCH2](https://github.com/ClasherGeek77/QA_API_BATCH2) | Training material for API testing in DOKU |
-| [QAWEBBATCH2](https://github.com/ClasherGeek77/QAWEBBATCH2) | Web automation batch project used in DOKU |
+| [QA_API](https://github.com/ClasherGeek77/QA_API_BATCH2) | Training material for API testing in DOKU |
+| [QA_WEB](https://github.com/ClasherGeek77/QAWEBBATCH2) | Web automation batch project used in DOKU |
 | [selenium-paralel](https://github.com/ClasherGeek77/selenium-paralel) | Selenium tests in parallel runs |
 | [pytest-api-minimal-learning-assignment](https://github.com/ClasherGeek77/pytest-api-minimal-learning-assignment) | Minimal Pytest project for API learning used in JULO |
 | [homework-10-python](https://github.com/ClasherGeek77/homework-10-python) | Simple Python exercises for learning used in JULO |
@@ -39,9 +39,8 @@ Part of my M.CompSci research: AI + Time Series for Electricity Forecasting
 
 | Project | Description |
 |--------|-------------|
-| [prophet_forecasting_electricity](https://github.com/ClasherGeek77/prophet_forecasting_electricity) | Time series electricity consumption forecasting using Prophet |
-| [ml-csv](https://github.com/ClasherGeek77/ml-csv) | Exploratory machine learning using structured data |
-| [FINAL-PROJECT-SPK](https://github.com/ClasherGeek77/FINAL-PROJECT-SPK) | Decision Support System with Python (Academic project) |
+| [Electricity Consumption Forecasting](https://github.com/ClasherGeek77/prophet_forecasting_electricity) | Time series electricity consumption forecasting using Prophet |
+| [Dataset](https://github.com/ClasherGeek77/ml-csv) | Exploratory machine learning using structured data |
 
 ---
 
