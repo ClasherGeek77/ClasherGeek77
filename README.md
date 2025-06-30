@@ -82,5 +82,5 @@ Trained 70+ QA professionals, transitioned 95% of internal QA manual team into a
 
 ---
 
-> _"I don’t just automate tests. I build testers."_  
-— Teddy Lioner
+> _"I don’t just automate tests. I build testers."_
+Teddy Lioner
