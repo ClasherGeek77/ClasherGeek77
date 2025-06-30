@@ -2,7 +2,6 @@
 
 **QA Automation Engineer • Mentor • Educator**  
 📍 Indonesia  
-📞 +62 823 7350 9188  
 📧 lionertdy@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/teddy-lioner/) | [IEEE](https://ieeexplore.ieee.org/author/37089631442) | [GitHub](https://github.com/ClasherGeek77)
 
