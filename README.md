@@ -78,7 +78,7 @@ Tools for teaching performance and basic security testing.
 - 🧑‍🏫 **Mentor & Instructor** – OK-IT, Alterra Academy, Superprof  
 - 🛠 **Test Engineer** – Tokopedia, Stickearn
 
-Trained 70+ QA professionals, transitioned 95% of internal QA manual team into automation engineers, and led squad-wide DevOps integration for test pipelines.
+Trained 80+ QA professionals, transitioned 95% of internal QA manual team into automation engineers, and led squad-wide DevOps integration for test pipelines.
 
 ---
 
