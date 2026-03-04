@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ted | QA Lead Portfolio Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body class="light-mode">
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <nav>
+        <div class="container nav-content">
+            <div class="logo">TED<span>.QA</span></div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#case-studies">Case Studies</a></li>
+                <li><a href="#reports">Reports</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section id="home" class="hero section">
+            <div class="container hero-content">
+                <div class="hero-text">
+                    <h2 class="badge">QA Lead @ GigRadar.io</h2>
+                    <h1>Elite Quality <br><span class="gradient-text">Engineering Hub</span></h1>
+                    <p>Strategic automation, performance resilience, and security excellence. Explore my technical case
+                        studies and live test reports below.</p>
+                    <div class="cta-group">
+                        <a href="#case-studies" class="btn btn-primary">Explore Case Studies</a>
+                        <a href="test-report.html" class="btn btn-secondary" target="_blank">Latest Test Report</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="case-studies" class="section">
+            <div class="container">
+                <h2 class="section-title">Technical Case Studies</h2>
+                <div class="projects-grid">
+                    <div class="project-card">
+                        <div class="project-info">
+                            <h3>Enterprise CI/CD</h3>
+                            <p>Automated quality gates for Katalon Studio integrated with GitHub Actions.</p>
+                            <a href="https://github.com/ClasherGeek77/Github-CI-Automation-Katalon" class="case-link"
+                                target="_blank">View Strategy →</a>
+                            <div class="tags">
+                                <span class="tag">Katalon</span>
+                                <span class="tag">CI/CD</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <div class="project-info">
+                            <h3>Scalable Infrastructure</h3>
+                            <p>Dockerized Selenium Grid with parallel execution via Pytest-xdist.</p>
+                            <a href="https://github.com/ClasherGeek77/selenium-paralel" class="case-link"
+                                target="_blank">View Strategy →</a>
+                            <div class="tags">
+                                <span class="tag">Docker</span>
+                                <span class="tag">Selenium</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <div class="project-info">
+                            <h3>Resilient API Strategy</h3>
+                            <p>High-fidelity logging and automated recovery for Python API testing.</p>
+                            <a href="https://github.com/ClasherGeek77/petstore-api-tests" class="case-link"
+                                target="_blank">View Strategy →</a>
+                            <div class="tags">
+                                <span class="tag">Python</span>
+                                <span class="tag">Pytest</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <div class="project-info">
+                            <h3>Mentorship Framework</h3>
+                            <p>Standardized onboarding Lab for SDRT upskilling and technical growth.</p>
+                            <a href="https://github.com/ClasherGeek77/pytest-api-minimal-learning-assignment"
+                                class="case-link" target="_blank">View Strategy →</a>
+                            <div class="tags">
+                                <span class="tag">Leadership</span>
+                                <span class="tag">Mentorship</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="reports" class="section">
+            <div class="container">
+                <h2 class="section-title">Live Artifacts</h2>
+                <div class="experience-card glass">
+                    <div class="exp-header">
+                        <h3>Latest Automation Report</h3>
+                        <span class="company">ClasherGeek77.github.io</span>
+                    </div>
+                    <p>Access high-fidelity test reports generated directly from my CI/CD pipelines.</p>
+                    <a href="test-report.html" class="btn btn-secondary" target="_blank">Open Test Report</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 Ted. Leading Quality at Scale.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Parallax blobs
+        document.addEventListener('mousemove', (e) => {
+            const blobs = document.querySelectorAll('.blob');
+            const x = e.clientX / window.innerWidth;
+            const y = e.clientY / window.innerHeight;
+            blobs.forEach((blob, index) => {
+                const speed = (index + 1) * 20;
+                blob.style.transform = `translate(${x * speed}px, ${y * speed}px)`;
+            });
+        });
+    </script>
+</body>
+
+</html>
