@@ -4,146 +4,401 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ted | QA Lead Portfolio Hub</title>
+    <meta name="description" content="Teddy Lioner - Senior QA Automation Engineer, Educator, and Mentor.">
+    <title>Teddy Lioner | QA Lead & Automation Engineer</title>
+    
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
+    
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Icons (Boxicons) -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 
 <body class="light-mode">
+    <!-- Animated Background -->
     <div class="background-blobs">
         <div class="blob blob-1"></div>
         <div class="blob blob-2"></div>
         <div class="blob blob-3"></div>
+        <div class="blob blob-4"></div>
     </div>
 
-    <nav>
+    <!-- Navigation -->
+    <nav class="glass-nav">
         <div class="container nav-content">
-            <div class="logo">TED<span>.QA</span></div>
+            <a href="#home" class="logo">TEDDY<span>.QA</span></a>
             <ul class="nav-links">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#case-studies">Case Studies</a></li>
-                <li><a href="#reports">Reports</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
             </ul>
+            <div class="menu-toggle"><i class='bx bx-menu'></i></div>
         </div>
     </nav>
 
     <main>
+        <!-- Hero Section -->
         <section id="home" class="hero section">
-            <div class="container hero-content">
-                <div class="hero-text">
-                    <h2 class="badge">QA Lead @ GigRadar.io</h2>
-                    <h1>Elite Quality <br><span class="gradient-text">Engineering Hub</span></h1>
-                    <p>Strategic automation, performance resilience, and security excellence. Explore my technical case
-                        studies and live test reports below.</p>
+            <div class="container hero-container">
+                <div class="hero-left fade-in-up">
+                    <div class="badge"><i class='bx bxs-briefcase'></i> QA Lead @ GigRadar.io</div>
+                    <h1>Quality Engineering<br> <span class="gradient-text">Redefined.</span></h1>
+                    <p class="hero-subtitle">I don't just automate tests. <b>I build testers.</b></p>
+                    <p class="hero-desc">Automation Expert, Mentor, and M.CompSci researcher specializing in highly scalable CI/CD pipelines, resilient API testing, and parallel UI execution.</p>
                     <div class="cta-group">
-                        <a href="#case-studies" class="btn btn-primary">Explore Case Studies</a>
-                        <a href="test-report.html" class="btn btn-secondary" target="_blank">Latest Test Report</a>
+                        <a href="#projects" class="btn btn-primary">View Case Studies</a>
+                        <a href="test-report.html" class="btn btn-secondary" target="_blank"><i class='bx bx-file'></i> Live Test Report</a>
+                    </div>
+                </div>
+                <div class="hero-right fade-in-up delay-1">
+                    <div class="hero-visual">
+                        <div class="glass-card visual-card float-1">
+                            <i class='bx bx-check-shield icon-success'></i>
+                            <div class="vc-text">
+                                <span>Tests Passed</span>
+                                <strong>10,245</strong>
+                            </div>
+                        </div>
+                        <div class="glass-card visual-card float-2">
+                            <i class='bx bx-git-pull-request icon-blue'></i>
+                            <div class="vc-text">
+                                <span>Pipeline Status</span>
+                                <strong>Passing</strong>
+                            </div>
+                        </div>
+                        <div class="abstract-shape"></div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="case-studies" class="section">
+        <!-- About Section -->
+        <section id="about" class="section">
             <div class="container">
-                <h2 class="section-title">Technical Case Studies</h2>
+                <div class="section-header fade-in-up">
+                    <h2 class="section-title">About Me</h2>
+                    <div class="divider"></div>
+                </div>
+                <div class="about-content fade-in-up">
+                    <p>Hey! I'm Teddy, a test engineer by profession, mentor by passion. Based in Indonesia.</p>
+                    <p>With deep roots in QA automation and education, I’ve built testing pipelines, mentored dozens into automation roles, and led quality initiatives at massive organizations like <strong>Tokopedia</strong>, <strong>JULO</strong>, and <strong>Stickearn</strong>.</p>
+                    <p>I recently finished my Master of Computer Science, while experimenting with time-series forecasting, DevOps tooling, and open-source test infrastructure.</p>
+                    <div class="stats-grid">
+                        <div class="stat-item glass-card">
+                            <h3>80+</h3>
+                            <p>QA Professionals Trained</p>
+                        </div>
+                        <div class="stat-item glass-card">
+                            <h3>95%</h3>
+                            <p>Manual to Auto Transition</p>
+                        </div>
+                        <div class="stat-item glass-card">
+                            <h3>5+</h3>
+                            <p>Years in Automation</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="section bg-slate">
+            <div class="container">
+                <div class="section-header fade-in-up">
+                    <h2 class="section-title">Technical Arsenal</h2>
+                    <div class="divider"></div>
+                </div>
+                <div class="skills-grid fade-in-up">
+                    <div class="skill-category glass-card">
+                        <h3><i class='bx bx-code-alt'></i> Core Automation</h3>
+                        <div class="skill-tags">
+                            <span>Katalon Studio</span>
+                            <span>Selenium</span>
+                            <span>Appium</span>
+                            <span>Pytest</span>
+                            <span>RestAssured</span>
+                        </div>
+                    </div>
+                    <div class="skill-category glass-card">
+                        <h3><i class='bx bx-server'></i> DevOps & Infra</h3>
+                        <div class="skill-tags">
+                            <span>Docker / Compose</span>
+                            <span>GitHub Actions</span>
+                            <span>Jenkins</span>
+                            <span>Linux Bash</span>
+                            <span>Selenium Grid</span>
+                        </div>
+                    </div>
+                    <div class="skill-category glass-card">
+                        <h3><i class='bx bxl-python'></i> Languages</h3>
+                        <div class="skill-tags">
+                            <span>Python</span>
+                            <span>Java</span>
+                            <span>Groovy</span>
+                            <span>JavaScript</span>
+                            <span>SQL</span>
+                        </div>
+                    </div>
+                    <div class="skill-category glass-card">
+                        <h3><i class='bx bx-shield-quarter'></i> Perf & Sec</h3>
+                        <div class="skill-tags">
+                            <span>Apache JMeter</span>
+                            <span>OWASP ZAP</span>
+                            <span>Pandas (ML)</span>
+                            <span>Prophet (ML)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Timeline Section -->
+        <section id="experience" class="section">
+            <div class="container">
+                <div class="section-header fade-in-up">
+                    <h2 class="section-title">Experience & Mentorship</h2>
+                    <div class="divider"></div>
+                </div>
+                <div class="timeline fade-in-up">
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <span class="timeline-date">Current</span>
+                            <h3>QA Lead</h3>
+                            <h4>GigRadar.io</h4>
+                            <p>Leading strategic automation initiatives, performance resilience, and architecting quality gates for robust delivery.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <span class="timeline-date">Previous</span>
+                            <h3>Senior QA Automation</h3>
+                            <h4>JULO</h4>
+                            <p>Architected automated API methodologies and transitioned the internal manual QA team into automation engineers.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <span class="timeline-date">Continuous</span>
+                            <h3>Mentor & Instructor</h3>
+                            <h4>OK-IT, Alterra Academy, Superprof</h4>
+                            <p>Trained over 80 professionals, instructing courses on Web, Mobile, and API automation workflows.</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content glass-card">
+                            <span class="timeline-date">Past</span>
+                            <h3>Test Engineer</h3>
+                            <h4>Tokopedia & Stickearn</h4>
+                            <p>Executed large-scale QA operations and championed squad-wide test pipeline integrations.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="section bg-slate">
+            <div class="container">
+                <div class="section-header fade-in-up">
+                    <h2 class="section-title">Open Source Case Studies</h2>
+                    <div class="divider"></div>
+                    <p class="section-subtitle">Deep dive into my public reference implementations.</p>
+                </div>
+                
                 <div class="projects-grid">
-                    <div class="project-card">
-                        <div class="project-info">
-                            <h3>Enterprise CI/CD</h3>
-                            <p>Automated quality gates for Katalon Studio integrated with GitHub Actions.</p>
-                            <a href="https://github.com/ClasherGeek77/Github-CI-Automation-Katalon" class="case-link"
-                                target="_blank">View Strategy →</a>
-                            <div class="tags">
-                                <span class="tag">Katalon</span>
-                                <span class="tag">CI/CD</span>
-                            </div>
+                    <!-- Project 1 -->
+                    <div class="project-card glass-card fade-in-up">
+                        <div class="project-header">
+                            <i class='bx bx-network-chart'></i>
+                            <h3>CI/CD Quality Gates</h3>
                         </div>
-                    </div>
-                    <div class="project-card">
-                        <div class="project-info">
-                            <h3>Scalable Infrastructure</h3>
-                            <p>Dockerized Selenium Grid with parallel execution via Pytest-xdist.</p>
-                            <a href="https://github.com/ClasherGeek77/selenium-paralel" class="case-link"
-                                target="_blank">View Strategy →</a>
-                            <div class="tags">
-                                <span class="tag">Docker</span>
-                                <span class="tag">Selenium</span>
-                            </div>
+                        <p>Fully automated Katalon Studio test suite executed via GitHub Actions.</p>
+                        <div class="project-tags">
+                            <span>CI/CD</span><span>Katalon</span>
                         </div>
+                        <a href="https://github.com/ClasherGeek77/Github-CI-Automation-Katalon" target="_blank" class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
-                    <div class="project-card">
-                        <div class="project-info">
+                    
+                    <!-- Project 2 -->
+                    <div class="project-card glass-card fade-in-up delay-1">
+                        <div class="project-header">
+                            <i class='bx bx-layer'></i>
+                            <h3>Parallel Grid Infrastructure</h3>
+                        </div>
+                        <p>Dockerized Selenium Grid running distributed Python/Pytest UI tests.</p>
+                        <div class="project-tags">
+                            <span>Docker</span><span>Selenium</span><span>Pytest</span>
+                        </div>
+                        <a href="https://github.com/ClasherGeek77/selenium-paralel" target="_blank" class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
+                    </div>
+
+                    <!-- Project 3 -->
+                    <div class="project-card glass-card fade-in-up delay-2">
+                        <div class="project-header">
+                            <i class='bx bx-mobile-alt'></i>
+                            <h3>Mobile Device Farm Patch</h3>
+                        </div>
+                        <p>Fork of Appium Device Farm optimizing Remote ADB for distributed testing nodes.</p>
+                        <div class="project-tags">
+                            <span>Appium</span><span>Node.js</span>
+                        </div>
+                        <a href="https://github.com/ClasherGeek77/fix-adb-remote-appium-device-farm" target="_blank" class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
+                    </div>
+
+                    <!-- Project 4 -->
+                    <div class="project-card glass-card fade-in-up">
+                        <div class="project-header">
+                            <i class='bx bxs-plug'></i>
                             <h3>Resilient API Strategy</h3>
-                            <p>High-fidelity logging and automated recovery for Python API testing.</p>
-                            <a href="https://github.com/ClasherGeek77/petstore-api-tests" class="case-link"
-                                target="_blank">View Strategy →</a>
-                            <div class="tags">
-                                <span class="tag">Python</span>
-                                <span class="tag">Pytest</span>
-                            </div>
                         </div>
+                        <p>End-to-End JSON validation framework utilizing Restful data-driven workflows.</p>
+                        <div class="project-tags">
+                            <span>API</span><span>Katalon</span>
+                        </div>
+                        <a href="https://github.com/ClasherGeek77/Restful-API-Katalon-Example" target="_blank" class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
-                    <div class="project-card">
-                        <div class="project-info">
-                            <h3>Mentorship Framework</h3>
-                            <p>Standardized onboarding Lab for SDRT upskilling and technical growth.</p>
-                            <a href="https://github.com/ClasherGeek77/pytest-api-minimal-learning-assignment"
-                                class="case-link" target="_blank">View Strategy →</a>
-                            <div class="tags">
-                                <span class="tag">Leadership</span>
-                                <span class="tag">Mentorship</span>
-                            </div>
+
+                    <!-- Project 5 -->
+                    <div class="project-card glass-card fade-in-up delay-1">
+                        <div class="project-header">
+                            <i class='bx bx-tachometer'></i>
+                            <h3>Performance & Security</h3>
                         </div>
+                        <p>Bridging QA gaps with JMeter load tests and OWASP ZAP baseline scans.</p>
+                        <div class="project-tags">
+                            <span>JMeter</span><span>OWASP ZAP</span>
+                        </div>
+                        <a href="https://github.com/ClasherGeek77/jMeter-Owasp-Example" target="_blank" class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
+                    </div>
+
+                    <!-- Project 6 -->
+                    <div class="project-card glass-card fade-in-up delay-2">
+                        <div class="project-header">
+                            <i class='bx bx-line-chart'></i>
+                            <h3>Electricity Forecasting</h3>
+                        </div>
+                        <p>Machine Learning time-series prediction utilizing Meta's Prophet algorithm.</p>
+                        <div class="project-tags">
+                            <span>ML</span><span>Python</span><span>Data</span>
+                        </div>
+                        <a href="https://github.com/ClasherGeek77/prophet_forecasting_electricity" target="_blank" class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section id="reports" class="section">
+        <!-- Education Section -->
+        <section id="education" class="section">
             <div class="container">
-                <h2 class="section-title">Live Artifacts</h2>
-                <div class="experience-card glass">
-                    <div class="exp-header">
-                        <h3>Latest Automation Report</h3>
-                        <span class="company">ClasherGeek77.github.io</span>
+                <div class="section-header fade-in-up">
+                    <h2 class="section-title">Academic Background</h2>
+                    <div class="divider"></div>
+                </div>
+                <div class="edu-grid fade-in-up">
+                    <div class="edu-card glass-card">
+                        <i class='bx bxs-graduation edu-icon'></i>
+                        <div class="edu-info">
+                            <h3>Master of Computer Science (M.CompSci)</h3>
+                            <h4>Universitas Budi Luhur</h4>
+                            <span class="edu-year">2023 – 2025</span>
+                            <p>Specialization in Machine Learning and Time-Series Forecasting.</p>
+                        </div>
                     </div>
-                    <p>Access high-fidelity test reports generated directly from my CI/CD pipelines.</p>
-                    <a href="test-report.html" class="btn btn-secondary" target="_blank">Open Test Report</a>
+                    <div class="edu-card glass-card">
+                        <i class='bx bxs-graduation edu-icon'></i>
+                        <div class="edu-info">
+                            <h3>Bachelor of Computer Science (B.CompSci)</h3>
+                            <h4>Universitas Tarumanagara</h4>
+                            <span class="edu-year">2018 – 2022</span>
+                            <p>Core foundations in Software Engineering and Algorithms.</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
     </main>
 
-    <footer>
-        <div class="container">
-            <p>&copy; 2026 Ted. Leading Quality at Scale.</p>
+    <footer class="glass-footer">
+        <div class="container footer-content">
+            <div class="footer-left">
+                <div class="logo">TEDDY<span>.QA</span></div>
+                <p>Elevating software quality through intelligent automation and mentorship.</p>
+            </div>
+            <div class="footer-socials">
+                <a href="https://www.linkedin.com/in/teddy-lioner/" target="_blank" class="social-icon"><i class='bx bxl-linkedin'></i></a>
+                <a href="https://github.com/ClasherGeek77" target="_blank" class="social-icon"><i class='bx bxl-github'></i></a>
+                <a href="https://ieeexplore.ieee.org/author/37089631442" target="_blank" class="social-icon"><i class='bx bxs-book-content'></i></a>
+                <a href="mailto:lionertdy@gmail.com" class="social-icon"><i class='bx bx-envelope'></i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Teddy Lioner. Built with Code & Quality.</p>
         </div>
     </footer>
 
+    <!-- Scripts -->
     <script>
-        // Smooth scrolling
+        // Smooth Scrolling
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
-                document.querySelector(this.getAttribute('href')).scrollIntoView({
-                    behavior: 'smooth'
-                });
+                const target = document.querySelector(this.getAttribute('href'));
+                if(target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
             });
         });
 
-        // Parallax blobs
+        // Intersection Observer for scroll animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: "0px 0px -50px 0px"
+        };
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.fade-in-up').forEach(el => {
+            observer.observe(el);
+        });
+
+        // Dynamic Parallax Blobs
+        const blobs = document.querySelectorAll('.blob');
         document.addEventListener('mousemove', (e) => {
-            const blobs = document.querySelectorAll('.blob');
-            const x = e.clientX / window.innerWidth;
-            const y = e.clientY / window.innerHeight;
+            const x = (e.clientX / window.innerWidth - 0.5) * 2;
+            const y = (e.clientY / window.innerHeight - 0.5) * 2;
+            
             blobs.forEach((blob, index) => {
-                const speed = (index + 1) * 20;
+                const speed = (index + 1) * 15;
                 blob.style.transform = `translate(${x * speed}px, ${y * speed}px)`;
             });
         });
+
+        // Sticky Nav State
+        const nav = document.querySelector('nav');
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 50) {
+                nav.classList.add('scrolled');
+            } else {
+                nav.classList.remove('scrolled');
+            }
+        });
     </script>
 </body>
-
 </html>
