@@ -74,6 +74,7 @@ Tools for teaching performance and basic security testing.
 
 ## 🧭 Experience & Mentorship
 
+- 🧪 **QA Lead** - GigRadar.io
 - 🚀 **Senior QA Automation** – JULO  
 - 🧑‍🏫 **Mentor & Instructor** – OK-IT, Alterra Academy, Superprof  
 - 🛠 **Test Engineer** – Tokopedia, Stickearn
