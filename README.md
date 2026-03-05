@@ -54,21 +54,17 @@ Hey! I'm Ted. I specialize in building highly scalable, reliable, and robust **Q
 
 ---
 
-### 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="./metrics/achievements.svg" alt="Achievements" />
-</div>
-
-<br>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
   <img src="./metrics/stats.svg" alt="Ted's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClasherGeek77&theme=react&hide_border=true&background=0D1117" alt="Ted's GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./metrics/calendar.svg" alt="Contributions Calendar" width="80%" />
 </div>
 
 <br>
