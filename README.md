@@ -41,14 +41,10 @@ QA Lead at **GigRadar.io**, previously at **JULO**, **Tokopedia**, and **Stickea
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="./metrics/stats.svg" alt="GitHub Stats" width="49%" />
-  <img src="./metrics/languages.svg" alt="Top Languages" width="49%" />
-</div>
-
-<div align="center">
-  <img src="./metrics/calendar.svg" alt="Contributions Calendar" width="80%" />
-</div>
+<table width="100%"><tr>
+<td><img src="./metrics/stats.svg" alt="GitHub Stats" /></td>
+<td><img src="./metrics/languages.svg" alt="Top Languages" /></td>
+</tr></table>
 
 ---
 
