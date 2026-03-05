@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=I+build+scalable+Automation+Pipelines.;I+transition+manual+teams+to+SDETs.;I+mentor+and+educate+future+Engineers.;I+don't+just+automate+tests...+I+build+testers." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=I+build+scalable+Automation+Pipelines.;I+transition+manual+teams+to+SDETs.;I+mentor+and+educate+future+Engineers.;I+don't+just+automate+tests...+I+build+testers." alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ClasherGeek77/github-profile.png" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ClasherGeek77&style=flat&color=blue" alt="Profile Views" />
 </div>
 
 ---
@@ -38,18 +38,16 @@ Hey! I'm Teddy. I specialize in building highly scalable, reliable, and robust *
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClasherGeek77&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Teddy's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ClasherGeek77&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Teddy's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClasherGeek77&theme=react&hide_border=true&background=0D1117" alt="Teddy's GitHub Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ClasherGeek77&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
+
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClasherGeek77&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ClasherGeek77&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
