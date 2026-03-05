@@ -1,86 +1,99 @@
-# 🧪 Teddy Lioner | I Build Testers
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Teddy%20Lioner!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=QA%20Lead%20%7C%20Automation%20Architect%20%7C%20Educator&descAlignY=55&descAlign=50" />
+</div>
 
-**QA Automation Engineer • Mentor • Educator**  
-📍 Indonesia  
-📧 lionertdy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/teddy-lioner/) | [IEEE](https://ieeexplore.ieee.org/author/37089631442) 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=I+build+scalable+Automation+Pipelines.;I+transition+manual+teams+to+SDETs.;I+mentor+and+educate+future+Engineers.;I+don't+just+automate+tests...+I+build+testers." alt="Typing SVG" />
+  </a>
+</div>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/teddy-lioner/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ieeexplore.ieee.org/author/37089631442"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"></a>
+  <a href="mailto:lionertdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</div>
 
-## 👨‍💻 About Me
+<br>
 
-Hey! I'm Teddy, a test engineer by profession, mentor by passion.  
-With deep roots in QA automation and education, I’ve built testing pipelines, mentored dozens into automation roles, and led initiatives at Tokopedia, JULO, and Stickearn. I just finished my M.CompSci while experimenting with forecasting, DevOps, and open-source automation tooling.
-
----
-
-## 🔧 Test Automation Projects
-
-Katalon, Appium, Selenium, everything I teach, I practice.
-
-| Project | Description |
-|--------|-------------|
-| [Github-CI-Automation-Katalon](https://github.com/ClasherGeek77/Github-CI-Automation-Katalon) | Katalon CI/CD using GitHub Actions |
-| [Web-Katalon-Example](https://github.com/ClasherGeek77/Web-Katalon-Example) | Web UI automation using Katalon |
-| [Mobile-Katalon-Example-Project](https://github.com/ClasherGeek77/Mobile-Katalon-Example-Project) | Android automation via Katalon |
-| [Restful-API-Katalon-Example](https://github.com/ClasherGeek77/Restful-API-Katalon-Example) | API automation testing with Katalon |
-| [QA_API](https://github.com/ClasherGeek77/QA_API_BATCH2) | Training material for API testing in DOKU |
-| [QA_WEB](https://github.com/ClasherGeek77/QAWEBBATCH2) | Web automation batch project used in DOKU |
-| [selenium-paralel](https://github.com/ClasherGeek77/selenium-paralel) | Selenium tests in parallel runs |
-| [pytest-api-minimal-learning-assignment](https://github.com/ClasherGeek77/pytest-api-minimal-learning-assignment) | Minimal Pytest project for API learning used in JULO |
-| [homework-10-python](https://github.com/ClasherGeek77/homework-10-python) | Simple Python exercises for learning used in JULO |
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ClasherGeek77/github-profile.png" alt="Profile Views" />
+</div>
 
 ---
 
-## 📊 Forecasting, ML & Academic Work
+### 👨‍💻 About Me
 
-Part of my M.CompSci research: AI + Time Series for Electricity Forecasting
+Hey! I'm Teddy. I specialize in building highly scalable, reliable, and robust **Quality Assurance Automation Pipelines** from the ground up. Beyond my day-to-day engineering duties, I'm passionate about **teaching and mentorship**. 
 
-| Project | Description |
-|--------|-------------|
-| [Electricity Consumption Forecasting](https://github.com/ClasherGeek77/prophet_forecasting_electricity) | Time series electricity consumption forecasting using Prophet |
-| [Dataset](https://github.com/ClasherGeek77/ml-csv) | Exploratory machine learning using structured data |
+- 🏢 **Currently:** QA Lead at **GigRadar.io**
+- 🌟 **Previously:** Senior QA Automation at **JULO**, Test Engineer at **Tokopedia** and **Stickearn**
+- 🎓 **Education:** Master of Computer Science, Universitas Budi Luhur (2023–2025)
+- 🧑‍🏫 **Impact:** Track record of mentoring 80+ QA professionals and transitioning manual testers into confident automation engineers. Constantly exploring **DevOps, AI Forecasting, and Open-Source Tooling**.
 
----
-
-## 🔩 Tools, Scripts & DevOps
-
-Handy utilities I use and teach in workshops or internal tooling setups.
-
-| Project | Description |
-|--------|-------------|
-| [install-script](https://github.com/ClasherGeek77/install-script) | Linux setup scripts for QA environments |
-| [uiautomatorviewer-docker-novnc](https://github.com/ClasherGeek77/uiautomatorviewer-docker-novnc) | UI Automator Viewer in browser via Docker + noVNC |
-| [fix-adb-remote-appium-device-farm](https://github.com/ClasherGeek77/fix-adb-remote-appium-device-farm) | Appium 2.0 device farm plugin fork for distributed automation |
+<br>
 
 ---
 
-## 🔐 Security & Performance
+### 📊 GitHub Analytics
 
-Tools for teaching performance and basic security testing.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClasherGeek77&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Teddy's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClasherGeek77&theme=react&hide_border=true&background=0D1117" alt="Teddy's GitHub Streak" width="48%" />
+</div>
 
-| Project | Description |
-|--------|-------------|
-| [jMeter-Owasp-Example](https://github.com/ClasherGeek77/jMeter-Owasp-Example) | JMeter + OWASP ZAP demo for load and security testing |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ClasherGeek77&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
 
----
+<br>
 
-## 📚 Education
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClasherGeek77&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</div>
 
-- 🎓 **M.CompSci** – Universitas Budi Luhur (2023–2025)  
-- 🎓 **B.CompSci** – Universitas Tarumanagara (2018–2022)
-
----
-
-## 🧭 Experience & Mentorship
-
-- 🧪 **QA Lead** - GigRadar.io
-- 🚀 **Senior QA Automation** – JULO  
-- 🧑‍🏫 **Mentor & Instructor** – OK-IT, Alterra Academy, Superprof  
-- 🛠 **Test Engineer** – Tokopedia, Stickearn
-
-Trained 80+ QA professionals, transitioned 95% of internal QA manual team into automation engineers, and led squad-wide DevOps integration for test pipelines.
+<br>
 
 ---
 
-> _"I don’t just automate tests. I build testers."_
+### 🛠️ Core Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,bash,js,ts,php,html,css" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,docker,githubactions,jenkins,gcp,aws" />
+  </a>
+</p>
+
+<br>
+
+---
+
+### 🚀 Highlighted Frameworks & Research
+
+#### 🧪 Test Automation Frameworks
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🌐 **[Selenium Parallel Execution Framework](https://github.com/ClasherGeek77/selenium-parallel-execution-framework)** | Industrial-strength scalable UI automation | Selenium, Pytest, Docker |
+| 🐾 **[Petstore API Automation](https://github.com/ClasherGeek77/api-automation-petstore-swagger)** | Principal-grade API contract & functional testing | Python, Pydantic, Allure |
+| 🤖 **[Katalon CI/CD Engine](https://github.com/ClasherGeek77/katalon-github-actions-ci)** | Fully-integrated CI pipeline for Katalon Studio | Katalon, GitHub Actions |
+| 📱 **[Android E2E Automation](https://github.com/ClasherGeek77/katalon-mobile-automation-framework)** | Mobile testing suite for modern Android apps | Katalon, Appium |
+
+#### 📊 Data Science, Forecasting & ML
+| Project | Description | Focus |
+|---------|-------------|-------|
+| ⚡ **[Electricity Consumption Forecasting](https://github.com/ClasherGeek77/UNI-ml-electricity-forecasting-prophet)** | My Master's research on predictive power modeling | Prophet, TS Forecasting |
+| 🧠 **[Exploratory ML with Structured Data](https://github.com/ClasherGeek77/UNI-ml-csv-data-analysis)** | Advanced statistical data analysis | Python, Pandas, Scikit-Learn |
+
+#### ⚙️ DevOps & Tooling Goodies
+- 🐳 **[UI Automator Viewer in Browser](https://github.com/ClasherGeek77/uiautomatorviewer-docker-novnc)**: Because nobody likes fighting local Java path issues. Docker + noVNC FTW.
+- 🐧 **[Linux QA Environment Setup](https://github.com/ClasherGeek77/linux-qa-environment-setup-script)**: 1-click bootstrap scripts to turn any fresh Ubuntu install into a testing powerhouse.
+- 🛡️ **[JMeter + OWASP Demo](https://github.com/ClasherGeek77/jmeter-performance-security-testing)**: Teaching performance and basic security testing paradigms.
+
+<br>
+
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
