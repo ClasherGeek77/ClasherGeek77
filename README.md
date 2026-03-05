@@ -17,6 +17,25 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/QA%20Lead-Expert-6f42c1?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation%20Architect-Principal-0d6efd?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mentor%20%26%20Educator-80%2B%20Trained-20c997?style=flat-square&logo=academia&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-Framework-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Katalon-Studio-1DB6C3?style=flat-square&logo=katalon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-Mobile-662D91?style=flat-square&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-Performance-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure-Reporting-orange?style=flat-square&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ClasherGeek77&style=flat&color=blue" alt="Profile Views" />
 </div>
 
