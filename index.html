@@ -48,6 +48,7 @@
         </div>
     </nav>
 
+    <div class="blob-cursor"></div>
     <main>
         <!-- Hero Section -->
         <section id="home" class="hero section">
@@ -66,23 +67,30 @@
                 </div>
                 <div class="hero-right fade-in-up delay-1">
                     <div class="hero-visual">
+                        <!-- User Profile Image -->
+                        <div class="profile-container">
+                            <img src="profile.png" alt="Ted" class="profile-img">
+                        </div>
+
+                        <!-- Floating Data Cards -->
                         <div class="glass-card visual-card float-1">
                             <i class='bx bx-check-shield icon-success'></i>
                             <div class="vc-text">
-                                <span>Tests Passed</span>
-                                <strong>10,245</strong>
+                                <span>Automation Coverage</span>
+                                <strong>98.7%</strong>
                             </div>
                         </div>
                         <div class="glass-card visual-card float-2">
                             <i class='bx bx-git-pull-request icon-blue'></i>
                             <div class="vc-text">
-                                <span>Pipeline Status</span>
-                                <strong>Passing</strong>
+                                <span>CI/CD Pipelines</span>
+                                <strong>Healthy</strong>
                             </div>
                         </div>
                         <div class="abstract-shape"></div>
-                        <img src="profile.png" alt="Ted" class="profile-img"
-                            style="position:absolute; bottom: 0; right: 20%; width: 250px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.2); z-index: -1;">
+
+                        <!-- Premium Dashboard Background -->
+                        <img src="hero_visual.png" alt="QA Dashboard Visual" class="hero-main-img">
                     </div>
                 </div>
             </div>
@@ -131,43 +139,74 @@
                     <div class="divider"></div>
                 </div>
                 <div class="skills-grid fade-in-up">
+                    <!-- Category 1: Programming & Architecture -->
                     <div class="skill-category glass-card">
-                        <h3><i class='bx bx-code-alt'></i> Core Automation</h3>
+                        <h3><i class='bx bx-code-alt'></i> Programming & Patterns</h3>
                         <div class="skill-tags">
-                            <span>Katalon Studio</span>
-                            <span>Selenium</span>
-                            <span>Appium</span>
-                            <span>Pytest</span>
-                            <span>RestAssured</span>
+                            <span>Java</span> <span>Python</span> <span>JavaScript</span> <span>TypeScript</span>
+                            <span>Groovy</span> <span>Go</span> <span>C#</span> <span>SQL</span>
+                            <span>OOP</span> <span>Page Object Model</span> <span>TDD</span> <span>BDD (Cucumber)</span>
+                            <span>DDT</span> <span>Junit</span> <span>Git</span> <span>Quality Gates</span>
+                            <span>Shift-Left</span>
+                            <span>Prompt Engineering</span> <span>Vibe Coding</span> <span>MCP</span>
                         </div>
                     </div>
+
+                    <!-- Category 2: Automation Ecosystem -->
                     <div class="skill-category glass-card">
-                        <h3><i class='bx bx-server'></i> DevOps & Infra</h3>
+                        <h3><i class='bx bx-terminal'></i> Quality Automation</h3>
                         <div class="skill-tags">
-                            <span>Docker / Compose</span>
-                            <span>GitHub Actions</span>
-                            <span>Jenkins</span>
-                            <span>Linux Bash</span>
-                            <span>Selenium Grid</span>
+                            <span>Selenium</span> <span>Playwright</span> <span>Cypress</span> <span>WebdriverIO</span>
+                            <span>Puppeteer</span> <span>Appium</span> <span>Espresso</span> <span>XCUITest</span>
+                            <span>Device Farm Appium</span> <span>STF</span> <span>OpenClaw</span>
+                            <span>REST-assured</span> <span>Pytest</span> <span>Postman</span> <span>GraphQL</span>
+                            <span>gRPC</span> <span>WireMock</span> <span>Pact</span>
                         </div>
                     </div>
+
+                    <!-- Category 3: Platform & DevOps -->
                     <div class="skill-category glass-card">
-                        <h3><i class='bx bxl-python'></i> Languages</h3>
+                        <h3><i class='bx bx-cloud'></i> Platform Engineering</h3>
                         <div class="skill-tags">
-                            <span>Python</span>
-                            <span>Java</span>
-                            <span>Groovy</span>
-                            <span>JavaScript</span>
-                            <span>SQL</span>
+                            <span>GitHub Actions</span> <span>Jenkins</span> <span>GitLab CI</span>
+                            <span>CircleCI</span>
+                            <span>AWS</span> <span>GCP</span> <span>Docker</span> <span>Terraform</span>
+                            <span>Ansible</span> <span>Bash / PowerShell</span> <span>AWS Lambda</span>
+                            <span>Nginx Proxy Manager</span> <span>Ngrok</span> <span>Cloudflared</span>
+                            <span>Cloud Bucket</span> <span>Google OAuth</span>
                         </div>
                     </div>
+
+                    <!-- Category 4: Performance & Resilience -->
                     <div class="skill-category glass-card">
-                        <h3><i class='bx bx-shield-quarter'></i> Perf & Sec</h3>
+                        <h3><i class='bx bx-pulse'></i> Performance & Chaos</h3>
                         <div class="skill-tags">
-                            <span>Apache JMeter</span>
-                            <span>OWASP ZAP</span>
-                            <span>Pandas (ML)</span>
-                            <span>Prophet (ML)</span>
+                            <span>Apache JMeter</span> <span>K6</span> <span>Locust</span> <span>Gatling</span>
+                            <span>Chaos Engineering (Gremlin)</span> <span>Load Testing</span> <span>Stress
+                                Testing</span>
+                            <span>Scalability Testing</span>
+                        </div>
+                    </div>
+
+                    <!-- Category 5: Security & Observability -->
+                    <div class="skill-category glass-card">
+                        <h3><i class='bx bx-shield-quarter'></i> Security & Monitoring</h3>
+                        <div class="skill-tags">
+                            <span>OWASP ZAP</span> <span>Burp Suite</span> <span>Mitmproxy</span> <span>SonarQube</span>
+                            <span>Penetration Testing</span> <span>Prometheus</span> <span>Grafana</span>
+                            <span>Datadog</span> <span>ELK (Elasticsearch/Kibana)</span>
+                            <span>Synthetic Monitoring</span>
+                        </div>
+                    </div>
+
+                    <!-- Category 6: Management & Data -->
+                    <div class="skill-category glass-card">
+                        <h3><i class='bx bx-data'></i> Management & Data</h3>
+                        <div class="skill-tags">
+                            <span>XRay</span> <span>Zephyr</span> <span>TestRail</span> <span>Jira</span>
+                            <span>Allure Reports</span> <span>PostgreSQL</span> <span>MySQL</span>
+                            <span>MongoDB</span> <span>Redis</span> <span>Metabase</span>
+                            <span>ETL Testing</span> <span>Data Validation</span>
                         </div>
                     </div>
                 </div>
@@ -239,92 +278,46 @@
                     <!-- Project 1 -->
                     <div class="project-card glass-card fade-in-up">
                         <div class="project-header">
-                            <i class='bx bx-layer'></i>
-                            <h3>Parallel Grid Infrastructure</h3>
+                            <img src="ui_icon.png" alt="UI Icon" style="width: 50px; border-radius: 12px;">
+                            <h3>Parallel Selenium Grid Framework</h3>
                         </div>
-                        <p>Dockerized Selenium Grid running parallel, thread-safe Python/Pytest UI tests via xdist Page
-                            Object Model.</p>
+                        <p>A highly scalable UI automation engine using Docker and Pytest-xdist. Features thread-safe
+                            Page Object Model and unified logging for cross-browser stability.</p>
                         <div class="project-tags">
-                            <span>Docker</span><span>Selenium</span><span>Pytest</span>
+                            <span>Docker</span><span>Grid</span><span>Pytest</span><span>POM</span>
                         </div>
                         <a href="https://github.com/ClasherGeek77/selenium-parallel-execution-framework" target="_blank"
-                            class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
+                            class="project-link">Explore Framework <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
 
                     <!-- Project 2 -->
                     <div class="project-card glass-card fade-in-up delay-1">
                         <div class="project-header">
-                            <i class='bx bx-network-chart'></i>
-                            <h3>Pytest API Framework</h3>
+                            <img src="api_icon.png" alt="API Icon" style="width: 50px; border-radius: 12px;">
+                            <h3>Python API Automation Suite</h3>
                         </div>
-                        <p>Distraction-free playground for training SDETs on API assertions, requests library, and
-                            Pytest fixture injection with CI/CD.</p>
+                        <p>Enterprise-ready API testing framework for Swager Petstore. Implements dynamic test data
+                            injection and comprehensive reporting via Allure.</p>
                         <div class="project-tags">
-                            <span>Python</span><span>API</span><span>CI/CD</span>
+                            <span>JSON API</span><span>Requests</span><span>Allure</span>
                         </div>
-                        <a href="https://github.com/ClasherGeek77/pytest-api-automation-framework" target="_blank"
-                            class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
+                        <a href="https://github.com/ClasherGeek77/api-automation-petstore-swagger" target="_blank"
+                            class="project-link">View Documentation <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
 
                     <!-- Project 3 -->
                     <div class="project-card glass-card fade-in-up delay-2">
                         <div class="project-header">
-                            <i class='bx bx-chalkboard'></i>
-                            <h3>QA Mentorship Assignments</h3>
+                            <img src="mentorship_icon.png" alt="Mentorship Icon"
+                                style="width: 50px; border-radius: 12px;">
+                            <h3>SDET Mentorship Program</h3>
                         </div>
-                        <p>Training modules designed as a Senior QA to transition manual testers into automation
-                            engineers using Python and Pytest.</p>
+                        <p>A comprehensive training curriculum designed to transition manual testers into automation
+                            engineers. Targeted at building core logic and framework architecture skills.</p>
                         <div class="project-tags">
-                            <span>Mentorship</span><span>Python</span><span>Training</span>
+                            <span>Mentorship</span><span>Python</span><span>Teaching</span>
                         </div>
-                        <a href="https://github.com/ClasherGeek77/pytest-api-automation-framework/pulls?q="
-                            target="_blank" class="project-link">View Pull Requests <i
-                                class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-
-                    <!-- Project 4 -->
-                    <div class="project-card glass-card fade-in-up">
-                        <div class="project-header">
-                            <i class='bx bxs-plug'></i>
-                            <h3>Enterprise API Reporting</h3>
-                        </div>
-                        <p>End-to-End API validation framework utilizing Allure reporting capabilities and GitHub
-                            Actions CI integrations.</p>
-                        <div class="project-tags">
-                            <span>API</span><span>Allure</span><span>Pytest</span>
-                        </div>
-                        <a href="https://github.com/ClasherGeek77/api-automation-petstore-swagger" target="_blank"
-                            class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-
-                    <!-- Project 5 -->
-                    <div class="project-card glass-card fade-in-up delay-1">
-                        <div class="project-header">
-                            <i class='bx bx-window'></i>
-                            <h3>Containerized UIAutomator</h3>
-                        </div>
-                        <p>Containerized Android UI Automator Viewer streamed to an HTML5 canvas via noVNC/X11, removing
-                            Android Studio bloat.</p>
-                        <div class="project-tags">
-                            <span>Docker</span><span>noVNC</span><span>DevEx</span>
-                        </div>
-                        <a href="https://github.com/ClasherGeek77/uiautomatorviewer-docker-novnc" target="_blank"
-                            class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
-                    </div>
-
-                    <!-- Project 6 -->
-                    <div class="project-card glass-card fade-in-up delay-2">
-                        <div class="project-header">
-                            <i class='bx bx-tachometer'></i>
-                            <h3>Performance & Security</h3>
-                        </div>
-                        <p>Bridging QA gaps with JMeter load tests and OWASP ZAP baseline scans for full-stack
-                            resilience analysis.</p>
-                        <div class="project-tags">
-                            <span>JMeter</span><span>OWASP ZAP</span>
-                        </div>
-                        <a href="https://github.com/ClasherGeek77/jmeter-performance-security-testing" target="_blank"
-                            class="project-link">View Repository <i class='bx bx-right-arrow-alt'></i></a>
+                        <a href="#about" class="project-link">Learn More <i class='bx bx-right-arrow-alt'></i></a>
                     </div>
                 </div>
             </div>
@@ -340,9 +333,9 @@
                 <div class="edu-grid fade-in-up">
                     <div class="edu-card glass-card">
                         <img src="Logo_Budi_Luhur.png" alt="Universitas Budi Luhur Logo" class="edu-icon"
-                            style="width: 80px; height: 80px; object-fit: contain; padding: 0.5rem; background: rgba(139, 92, 246, 0.1);">
+                            style="width: 80px; height: 80px; object-fit: contain; padding: 0.5rem; background: rgba(59, 130, 246, 0.05);">
                         <div class="edu-info">
-                            <h3>Master of Computer Science (M.CompSci)</h3>
+                            <h3>Master of Computer Science</h3>
                             <h4>Universitas Budi Luhur</h4>
                             <span class="edu-year">2023 – 2025</span>
                             <p>Specialization in Machine Learning and Time-Series Forecasting.</p>
@@ -351,13 +344,50 @@
                     <div class="edu-card glass-card">
                         <img src="Logo_Universitas_Tarumanagara.png" alt="Universitas Tarumanagara Logo"
                             class="edu-icon"
-                            style="width: 80px; height: 80px; object-fit: contain; padding: 0.5rem; background: rgba(139, 92, 246, 0.1);">
+                            style="width: 80px; height: 80px; object-fit: contain; padding: 0.5rem; background: rgba(59, 130, 246, 0.05);">
                         <div class="edu-info">
-                            <h3>Bachelor of Computer Science (B.CompSci)</h3>
+                            <h3>Bachelor of Computer Science</h3>
                             <h4>Universitas Tarumanagara</h4>
                             <span class="edu-year">2018 – 2022</span>
                             <p>Core foundations in Software Engineering and Algorithms.</p>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Collaborate Section -->
+        <section id="contact" class="section bg-slate">
+            <div class="container">
+                <div class="section-header fade-in-up">
+                    <h2 class="section-title">Elevate Your Quality Together</h2>
+                    <div class="divider"></div>
+                    <p class="section-subtitle">Whether you need to architect a new automation framework or mentor your
+                        team, let's build something resilient.</p>
+                </div>
+
+                <div class="contact-grid fade-in-up">
+                    <div class="contact-card glass-card">
+                        <i class='bx bxl-linkedin-square'></i>
+                        <h3>Professional Network</h3>
+                        <p>Join 500+ professionals and stay updated on QA trends.</p>
+                        <a href="https://www.linkedin.com/in/ted-qa/" target="_blank" class="btn btn-secondary">Connect
+                            on LinkedIn</a>
+                    </div>
+
+                    <div class="contact-card glass-card highlight">
+                        <i class='bx bx-envelope'></i>
+                        <h3>Direct Inquiry</h3>
+                        <p>Have a specific project or mentorship request?</p>
+                        <a href="mailto:lionertdy@gmail.com" class="btn btn-primary">Send an Email</a>
+                    </div>
+
+                    <div class="contact-card glass-card">
+                        <i class='bx bxs-graduation'></i>
+                        <h3>Mentorship</h3>
+                        <p>Inquire about personalized SDET training programs.</p>
+                        <a href="mailto:lionertdy@gmail.com?subject=Mentorship%20Inquiry"
+                            class="btn btn-secondary">Inquire Mentorship</a>
                     </div>
                 </div>
             </div>
@@ -428,16 +458,56 @@
             });
         });
 
-        // Sticky Nav State
+        // Cursor Blob Tracking
+        const cursorBlob = document.querySelector('.blob-cursor');
+        const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+        if (!isTouchDevice) {
+            document.addEventListener('mousemove', (e) => {
+                cursorBlob.style.left = e.clientX + 'px';
+                cursorBlob.style.top = e.clientY + 'px';
+            });
+        } else {
+            cursorBlob.style.display = 'none';
+        }
+
+
+        // Mobile Menu Toggle
+        const menuToggle = document.querySelector('.menu-toggle');
+        const navLinks = document.querySelector('.nav-links');
+
+        menuToggle.addEventListener('click', () => {
+            menuToggle.classList.toggle('active');
+            navLinks.classList.toggle('active');
+        });
+
+        // Close menu when clicking a link
+        document.querySelectorAll('.nav-links a').forEach(link => {
+            link.addEventListener('click', () => {
+                menuToggle.classList.remove('active');
+                navLinks.classList.remove('active');
+            });
+        });
+
+        // Sticky Nav & Back to Top
         const nav = document.querySelector('nav');
+        const backToTop = document.querySelector('.back-to-top');
+
         window.addEventListener('scroll', () => {
             if (window.scrollY > 50) {
                 nav.classList.add('scrolled');
             } else {
                 nav.classList.remove('scrolled');
             }
+
+            if (window.scrollY > 500) {
+                backToTop.classList.add('active');
+            } else {
+                backToTop.classList.remove('active');
+            }
         });
     </script>
+    <a href="#home" class="back-to-top"><i class="bx bx-up-arrow-alt"></i></a>
 </body>
 
 </html>

@@ -1,0 +1,28 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Builds
+dist/
+build/
+coverage/
+
+# Test reports
+*.html
+!index.html
