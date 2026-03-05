@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Teddy%20Lioner!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=QA%20Lead%20%7C%20Automation%20Architect%20%7C%20Educator&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ted!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=QA%20Lead%20%7C%20Automation%20Architect%20%7C%20Educator&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-Hey! I'm Teddy. I specialize in building highly scalable, reliable, and robust **Quality Assurance Automation Pipelines** from the ground up. Beyond my day-to-day engineering duties, I'm passionate about **teaching and mentorship**. 
+Hey! I'm Ted. I specialize in building highly scalable, reliable, and robust **Quality Assurance Automation Pipelines** from the ground up. Beyond my day-to-day engineering duties, I'm passionate about **teaching and mentorship**.
 
 - 🏢 **Currently:** QA Lead at **GigRadar.io**
 - 🌟 **Previously:** Senior QA Automation at **JULO**, Test Engineer at **Tokopedia** and **Stickearn**
@@ -38,8 +38,8 @@ Hey! I'm Teddy. I specialize in building highly scalable, reliable, and robust *
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ClasherGeek77&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Teddy's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClasherGeek77&theme=react&hide_border=true&background=0D1117" alt="Teddy's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ClasherGeek77&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Ted's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClasherGeek77&theme=react&hide_border=true&background=0D1117" alt="Ted's GitHub Streak" width="48%" />
 </div>
 
 
