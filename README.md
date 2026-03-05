@@ -1,120 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ted!&fontSize=60&animation=fadeIn&fontAlignY=38&desc=QA%20Lead%20%7C%20Automation%20Architect%20%7C%20Educator&descAlignY=55&descAlign=50" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=I+build+scalable+Automation+Pipelines.;I+transition+manual+teams+to+SDETs.;I+mentor+and+educate+future+Engineers.;I+don't+just+automate+tests...+I+build+testers." alt="Typing SVG" />
-  </a>
-</div>
+# Hi, I'm Ted 👋
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/teddy-lioner/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ieeexplore.ieee.org/author/37089631442"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"></a>
-  <a href="mailto:lionertdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
+**QA Lead · Automation Architect · Educator**
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teddy-lioner/)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/37089631442)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lionertdy@gmail.com)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/QA%20Lead-Expert-6f42c1?style=flat-square&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation%20Architect-Principal-0d6efd?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mentor%20%26%20Educator-80%2B%20Trained-20c997?style=flat-square&logo=academia&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-Framework-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Katalon-Studio-1DB6C3?style=flat-square&logo=katalon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-Mobile-662D91?style=flat-square&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-Performance-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Allure-Reporting-orange?style=flat-square&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ClasherGeek77&style=flat&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hey! I'm Ted. I specialize in building highly scalable, reliable, and robust **Quality Assurance Automation Pipelines** from the ground up. Beyond my day-to-day engineering duties, I'm passionate about **teaching and mentorship**.
+QA Lead at **GigRadar.io**, previously at **JULO**, **Tokopedia**, and **Stickearn**. I build industrial-grade automation pipelines and mentor engineers into automation roles. M.CompSci w/ research in AI time-series forecasting.
 
-- 🏢 **Currently:** QA Lead at **GigRadar.io**
-- 🌟 **Previously:** Senior QA Automation at **JULO**, Test Engineer at **Tokopedia** and **Stickearn**
-- 🎓 **Education:** Master of Computer Science, Universitas Budi Luhur (2023–2025)
-- 🧑‍🏫 **Impact:** Track record of mentoring 80+ QA professionals and transitioning manual testers into confident automation engineers. Constantly exploring **DevOps, AI Forecasting, and Open-Source Tooling**.
+- 🧑‍🏫 Trained **80+ QA professionals** and transitioned entire manual QA teams to automation
+- 🔧 Deep expertise in **Selenium, Katalon, Appium, Pytest, Docker, GitHub Actions**
+- 📊 Research background in **ML, forecasting, and DevOps tooling**
 
-<br>
+---
+
+### 🏅 Role & Stack
+
+![QA Lead](https://img.shields.io/badge/QA%20Lead-Expert-6f42c1?style=flat-square)
+![Automation Architect](https://img.shields.io/badge/Automation%20Architect-Principal-0d6efd?style=flat-square)
+![Mentor](https://img.shields.io/badge/Mentor-80%2B%20Trained-20c997?style=flat-square)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-1DB6C3?style=flat-square)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="./metrics/stats.svg" alt="Ted's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClasherGeek77&theme=react&hide_border=true&background=0D1117" alt="Ted's GitHub Streak" width="48%" />
+  <img src="./metrics/stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="./metrics/languages.svg" alt="Top Languages" width="49%" />
 </div>
-
-<br>
 
 <div align="center">
   <img src="./metrics/calendar.svg" alt="Contributions Calendar" width="80%" />
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="./metrics/languages.svg" alt="Top Languages" width="60%" />
-</div>
+### 🚀 Projects
 
-<br>
+#### 🧪 Test Automation
+
+| Project | Stack |
+|---------|-------|
+| 🌐 [Selenium Parallel Execution Framework](https://github.com/ClasherGeek77/selenium-parallel-execution-framework) | Selenium · Pytest · Docker |
+| 🐾 [Petstore API Automation](https://github.com/ClasherGeek77/api-automation-petstore-swagger) | Python · Pydantic · Allure |
+| 🤖 [Katalon CI/CD Engine](https://github.com/ClasherGeek77/katalon-github-actions-ci) | Katalon · GitHub Actions |
+| 📱 [Android E2E Automation](https://github.com/ClasherGeek77/katalon-mobile-automation-framework) | Katalon · Appium |
+
+#### 📊 Research & ML
+
+| Project | Focus |
+|---------|-------|
+| ⚡ [Electricity Forecasting](https://github.com/ClasherGeek77/UNI-ml-electricity-forecasting-prophet) | Prophet · Time Series |
+| 🧠 [ML Data Analysis](https://github.com/ClasherGeek77/UNI-ml-csv-data-analysis) | Pandas · Scikit-Learn |
+
+#### ⚙️ DevOps & Tooling
+
+| Project | What it does |
+|---------|-------------|
+| 🐳 [UI Automator Viewer in Browser](https://github.com/ClasherGeek77/uiautomatorviewer-docker-novnc) | Docker + noVNC — no local Java setup needed |
+| 🐧 [Linux QA Environment Setup](https://github.com/ClasherGeek77/linux-qa-environment-setup-script) | 1-click Ubuntu → testing powerhouse |
+| 🛡️ [JMeter + OWASP Demo](https://github.com/ClasherGeek77/jmeter-performance-security-testing) | Performance & security testing playground |
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,bash,js,ts,php,html,css" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,docker,githubactions,jenkins,gcp,aws" />
-  </a>
-</p>
-
-<br>
-
----
-
-### 🚀 Highlighted Frameworks & Research
-
-#### 🧪 Test Automation Frameworks
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌐 **[Selenium Parallel Execution Framework](https://github.com/ClasherGeek77/selenium-parallel-execution-framework)** | Industrial-strength scalable UI automation | Selenium, Pytest, Docker |
-| 🐾 **[Petstore API Automation](https://github.com/ClasherGeek77/api-automation-petstore-swagger)** | Principal-grade API contract & functional testing | Python, Pydantic, Allure |
-| 🤖 **[Katalon CI/CD Engine](https://github.com/ClasherGeek77/katalon-github-actions-ci)** | Fully-integrated CI pipeline for Katalon Studio | Katalon, GitHub Actions |
-| 📱 **[Android E2E Automation](https://github.com/ClasherGeek77/katalon-mobile-automation-framework)** | Mobile testing suite for modern Android apps | Katalon, Appium |
-
-#### 📊 Data Science, Forecasting & ML
-| Project | Description | Focus |
-|---------|-------------|-------|
-| ⚡ **[Electricity Consumption Forecasting](https://github.com/ClasherGeek77/UNI-ml-electricity-forecasting-prophet)** | My Master's research on predictive power modeling | Prophet, TS Forecasting |
-| 🧠 **[Exploratory ML with Structured Data](https://github.com/ClasherGeek77/UNI-ml-csv-data-analysis)** | Advanced statistical data analysis | Python, Pandas, Scikit-Learn |
-
-#### ⚙️ DevOps & Tooling Goodies
-- 🐳 **[UI Automator Viewer in Browser](https://github.com/ClasherGeek77/uiautomatorviewer-docker-novnc)**: Because nobody likes fighting local Java path issues. Docker + noVNC FTW.
-- 🐧 **[Linux QA Environment Setup](https://github.com/ClasherGeek77/linux-qa-environment-setup-script)**: 1-click bootstrap scripts to turn any fresh Ubuntu install into a testing powerhouse.
-- 🛡️ **[JMeter + OWASP Demo](https://github.com/ClasherGeek77/jmeter-performance-security-testing)**: Teaching performance and basic security testing paradigms.
-
-<br>
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+> *"I don't just automate tests. I build testers."*
