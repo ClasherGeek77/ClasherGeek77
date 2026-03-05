@@ -979,6 +979,11 @@ a {
     .section {
         padding: 60px 0;
     }
+
+    .hero {
+        padding-top: 120px;
+        align-items: flex-start;
+    }
 }
 
 @media (max-width: 480px) {
