@@ -16,7 +16,7 @@ jobs:
       - name: 🔍 Check GitHub activity in last 24 hours
         id: activity
         run: |
-          USER="tedgigradar"
+          USER="ClasherGeek77"
           SINCE=$(date -u -d "24 hours ago" +"%Y-%m-%dT%H:%M:%SZ")
 
           COUNT=$(curl -s https://api.github.com/users/$USER/events \
