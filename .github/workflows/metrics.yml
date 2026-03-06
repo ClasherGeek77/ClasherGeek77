@@ -2,7 +2,7 @@ name: 📊 GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 16 * * *"   # 23:00 WIB (UTC+7)
+    - cron: "0 17 * * *"   # 00:00 WIB (UTC+7)
   workflow_dispatch:
 
 jobs:
@@ -13,25 +13,23 @@ jobs:
       contents: write
 
     steps:
-      - name: 🔍 Check GitHub activity in last 24 hours
+      - name: 🔍 Check GitHub activity in last 23 hours
         id: activity
         run: |
           USER="ClasherGeek77"
-          SINCE=$(date -u -d "24 hours ago" +"%Y-%m-%dT%H:%M:%SZ")
+          SINCE=$(date -u -d "23 hours ago" +"%Y-%m-%dT%H:%M:%SZ")
 
           COUNT=$(curl -s https://api.github.com/users/$USER/events \
             | jq --arg SINCE "$SINCE" '[.[] | select(.created_at > $SINCE)] | length')
 
-          echo "Events in last 24h: $COUNT"
+          echo "Events in last 23h: $COUNT"
 
           if [ "$COUNT" -eq 0 ]; then
-            echo "No recent activity — skipping metrics update."
+            echo "No activity detected — skipping metrics update."
             echo "skip=true" >> $GITHUB_OUTPUT
-          else
-            echo "Activity detected — updating metrics."
           fi
 
-      - name: 📊 Generate GitHub Stats Card
+      - name: 📊 GitHub Stats Card
         if: steps.activity.outputs.skip != 'true'
         uses: lowlighter/metrics@latest
         with:
@@ -42,7 +40,7 @@ jobs:
           config_display: columns
           output_action: commit
 
-      - name: 🗂️ Generate Top Languages
+      - name: 🗂️ Top Languages
         if: steps.activity.outputs.skip != 'true'
         uses: lowlighter/metrics@latest
         with:
