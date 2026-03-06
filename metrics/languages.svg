@@ -41,7 +41,6 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>4.44k lines</div>
                                 <div>64.6%</div>
                             </small>
                         </div>
@@ -53,7 +52,6 @@
                                 Shell
                             </div>
                             <small>
-                                <div>768 lines</div>
                                 <div>5.87%</div>
                             </small>
                         </div>
@@ -65,7 +63,6 @@
                                 Python
                             </div>
                             <small>
-                                <div>644 lines</div>
                                 <div>3.61%</div>
                             </small>
                         </div>
@@ -77,7 +74,6 @@
                                 Java
                             </div>
                             <small>
-                                <div>613 lines</div>
                                 <div>2.44%</div>
                             </small>
                         </div>
@@ -91,7 +87,6 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.63k lines</div>
                                 <div>14.91%</div>
                             </small>
                         </div>
@@ -103,7 +98,6 @@
                                 CSS
                             </div>
                             <small>
-                                <div>1.33k lines</div>
                                 <div>5.22%</div>
                             </small>
                         </div>
@@ -115,7 +109,6 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>644 lines</div>
                                 <div>2.7%</div>
                             </small>
                         </div>
@@ -127,7 +120,6 @@
                                 EJS
                             </div>
                             <small>
-                                <div>107 lines</div>
                                 <div>0.66%</div>
                             </small>
                         </div>
